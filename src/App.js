@@ -9,10 +9,10 @@ function App() {
       <br />
       <img src={imageInSrc} alt="html" width="320" height="240" />
       <br />
-      <img src="/js.png" alt="js" width="320" height="240" />
+      <img src="/js.png" alt="js " width="320" height="240" />
       <br />
       <video width="320" height="240" controls>
-        <source src="myVideo.mp4" type="video/mp4"></source>
+        <source src="/Rainy Day.mp4" type="video/mp4"></source>
       </video>
     </div>
   );
